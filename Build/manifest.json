@@ -1,12 +1,13 @@
 {
     "name": "LethalDrones",
-    "version_number": "1.0.0",
-    "website_url": "",
+    "version_number": "1.0.5-1.2",
+    "website_url": "https://github.com/aNaOH/LethalDrones",
     "description": "Murder Drones Suits & Stuff for Lethal Company",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 		"BunyaPineTree-ModelReplacementAPI-2.3.1",
         "Evaisa-LethalLib-0.16.1",
+        "AbelMuak-LethalHelper-1.0.2",
         "x753-More_Suits-1.4.4"
     ]
 }

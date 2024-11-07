@@ -6,6 +6,7 @@
 # Binaries lol
 AbelLethalHelper.dll
 ModelReplacementAPI.dll
+Build/LethalDrones.dll
 
 # User-specific files
 *.rsuser

@@ -5,7 +5,7 @@ using ModelReplacement;
 
 namespace AbelMuak.Mods.LC.LethalDrones
 {
-    [BepInPlugin(ModGUID, "Lethal Drones", "1.0.1")]
+    [BepInPlugin(ModGUID, "Lethal Drones", "1.0.5")]
     [BepInDependency("com.abelmuak.libs.lethalthings", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("meow.ModelReplacementAPI", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency(LethalLib.Plugin.ModGUID, BepInDependency.DependencyFlags.HardDependency)]
