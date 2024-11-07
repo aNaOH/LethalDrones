@@ -17,7 +17,7 @@
 
 ## Version 2
 
-- Fixed networking
+- Fixed networking issues ([Report](https://github.com/aNaOH/LethalHelper/issues/1))
 - Added rotation offsets
 
 ## Version 1
